@@ -135,6 +135,7 @@ main {
   background-color: #f8f5f5;
   height: 450px;
   border-radius: 10px;
+  overflow: auto;
 }
 
 .befor {
@@ -183,10 +184,6 @@ main {
   justify-self: center;
 }
 
-.saybox-after {
-  overflow: auto;
-}
-
 .boxes {
   display: flex;
 }
@@ -207,7 +204,7 @@ main {
   border-radius: 10px 0 0 10px;
 }
 
-  .day-two {
+.day-two {
   width: 450px;
   background-color: white;
   margin-right: 10px;
