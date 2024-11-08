@@ -8,7 +8,7 @@ header {
   justify-content: space-between;
   margin: 10px;
   font-weight: 600;
-  }
+}
 
 .logo {
   display: flex;
@@ -234,14 +234,14 @@ main {
   border-radius: 0 10px 10px 0;
   color: #c9c5c5;
 }
-  
+
 .day-three {
   width: 300px;
   background-color: white;
   height: 150px;
   border-radius: 10px 0 0 10px;
 }
-  
+
 .day-two {
   width: 450px;
   background-color: white;
@@ -257,13 +257,13 @@ main {
   border-radius: 20px;
   margin-top: 10px;
 }
-  
+
 .day-tenp {
   font-size: medium;
   font-weight: 700;
   margin-top: 15px;
 }
-  
+
 .number-two {
   font-size: 0.8rem;
   margin-top: 30px;
@@ -279,7 +279,7 @@ main {
   color: white;
   text-align: center;
 }
-  
+
 .day-tenxp {
   font-size: medium;
   font-weight: 700;
@@ -288,7 +288,7 @@ main {
   margin-left: 10px;
   margin-right: 10px;
 }
-  
+
 .number-one {
   font-size: 0.8rem;
   margin-top: 30px;
@@ -306,21 +306,21 @@ main {
   font-weight: 700;
   text-align: center;
 }
-  
+
 .day-tenxlp {
   font-size: medium;
   font-weight: 700;
   margin-top: 15px;
   text-align: right;
 }
-  
+
 .number-three {
   font-size: 0.8rem;
   margin-top: 30px;
   text-align: right;
   color: #a1a1a1;
 }
-  
+
 .afterp {
   text-align: center;
   margin-left: 10px;
@@ -420,7 +420,7 @@ main {
 .emilyp,
 .depsp,
 .larlp {
-  font-size:large;
+  font-size: large;
   color: #4d4b4b;
   margin-left: 15px;
   margin-top: 20px;
@@ -439,7 +439,7 @@ main {
   margin-top: 40px;
 }
 
-.johndoe-image  img,
+.johndoe-image img,
 .sophia-img img,
 .raj-img img,
 .emily-img img,
@@ -547,7 +547,7 @@ main {
 }
 
 .circle-one {
-  border-radius: 0 0 90% 0;
+  border-radius: 0 0 90%;
   background-color: #f3be82;
   width: 200px;
   height: 200px;
@@ -573,7 +573,7 @@ main {
 .download-for h3 {
   font-size: larger;
   margin-bottom: 10px;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 .download-for p {
@@ -622,8 +622,8 @@ main {
 }
 
 .footerlogo-name {
- font-size: 1.5rem;
- font-weight: 900;
+  font-size: 1.5rem;
+  font-weight: 900;
 }
 
 .solution,
@@ -645,13 +645,13 @@ main {
 .solution p,
 .services p,
 .policy p,
-.lets-talk p  {
+.lets-talk p {
   color: #a1a1a1;
 }
 
 .part-two {
- display: block;
- padding: 10px;
+  display: block;
+  padding: 10px;
 }
 
 .iconsim img {
