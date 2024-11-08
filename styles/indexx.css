@@ -207,7 +207,7 @@ main {
   margin-right: 10px;
   margin-top: 30px;
   font-size: 0.9rem;
-color: #4d4b4b;
+  color: #4d4b4b;
 }
 
 .after {
@@ -295,6 +295,8 @@ color: #4d4b4b;
   text-align: center;
   color: #a1a1a1;
 }
+
+
 .day-tenxl {
   background-color: #f8f5f5;
   width: 65px;
