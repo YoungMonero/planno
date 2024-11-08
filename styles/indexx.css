@@ -168,7 +168,7 @@ main {
   padding: 5px;
 }
 
-.saybox-afters {
+.saybox-after {
   width: 290px;
   background-color: #f8f5f5;
   height: 350px;
@@ -295,6 +295,7 @@ main {
   text-align: center;
   color: #a1a1a1;
 }
+
 
 .day-tenxl {
   background-color: #f8f5f5;
